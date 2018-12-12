@@ -25,7 +25,7 @@ SECRET_KEY = '4turm0&98kvo%pystw9k5pfs2-=o$y_+*!^^+j6*biif@w9uon'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'user.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'user.pythonanywhere.com', 'blogprojectdjango.pythonanywhere.com']
 
 
 # Application definition
